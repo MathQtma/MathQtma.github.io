@@ -179,6 +179,8 @@ hr {
   color: rgba(34, 34, 34);
   font-size:large;
   font-weight:bold;
+  margin-top: 10px;
+  margin-bottom: 10px;  
 }
 
 .publication {
