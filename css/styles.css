@@ -13,6 +13,10 @@ p, ul, ol, table, pre, dl {
   margin:0 0 10px;
 }
 
+pt {
+  margin:0 0 5px;
+}
+
 li {
   padding-top: 5px;
   padding-bottom: 5px;
