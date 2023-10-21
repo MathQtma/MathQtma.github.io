@@ -10,15 +10,11 @@ body {
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 10px;
+  margin:0 0 20px;
 }
 
 pt {
   margin:0 0 5px;
-}
-
-pl {
-  margin-bottom:0 0 15px;
 }
 
 
