@@ -178,6 +178,13 @@ hr {
   margin-botton: 10px
 }
 
+#Personal-contact {
+  color: rgba(34, 34, 34);
+  font-size:normal;
+  margin-top: 10px;
+}
+
+
 .personal-photo {
   max-width:75%;
 }
