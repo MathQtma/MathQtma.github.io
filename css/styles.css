@@ -175,7 +175,7 @@ hr {
 }
 
 .pub-img {
-    height: 30px;         
+    height: 30px;!important;
     width: auto;         
     vertical-align: middle;
     margin-left: 8px;
