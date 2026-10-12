@@ -163,6 +163,14 @@ hr {
   font-weight:bold;
 }
 
+#Personal-Name {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+
+
 #Personal-introduction {
   color: rgba(34, 34, 34);
   margin-top: 60px;
