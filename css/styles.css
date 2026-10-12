@@ -174,8 +174,12 @@ hr {
     white-space: nowrap;  
 }
 
-
-
+.pub-img {
+    height: 1.25em;         
+    width: auto;         
+    vertical-align: middle;
+    margin-left: 8px;
+}
 
 #Personal-introduction {
   color: rgba(34, 34, 34);
