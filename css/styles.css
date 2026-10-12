@@ -170,6 +170,9 @@ hr {
     flex-wrap: nowrap;   
 }
 
+#Personal-Name {
+    white-space: nowrap;  
+}
 
 #Personal-introduction {
   color: rgba(34, 34, 34);
